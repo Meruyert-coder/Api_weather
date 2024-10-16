@@ -1,1 +1,1 @@
-# Api_weather
+# An API that allows you to get the current weather by coordinates. The user enters the longitude and latitude via prompt(). You send a request to the OpenWeather API, and the response is displayed on the website. It contains the following information:city,date,weather description, icon,current temperature, minimum temperature, maximum temperature, wind speed.
